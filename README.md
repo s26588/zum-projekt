@@ -8,7 +8,7 @@ Skrypt do pobierania tweetów i zapisywania ich w formacie .csv
 - user_name - nazwa konta autora
 
 Skrypt działa w pętli, z każdym razem musi poczekać min 5 sekund, ponieważ ograniczenia twitterowe pozwalają tylko na 180 zapytań na 15 minut
-Tweety dodają się do tego samego pliku
+
 Nie udostępniam kluczy, bo to moje prywatne. Nawet ich nie generowałem na potrzeby tego projektu. Miałem je już wcześniej i używam gdzieś indziej.
 
 # _projekt.ipynb_
